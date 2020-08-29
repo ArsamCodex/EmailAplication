@@ -13,6 +13,9 @@ public class Email {
     private int defaultPasswordLength = 10;
     private  String email;
     private String  Suffix = "intecbrussel.be";
+    
+    // JUST UPLOAD IT HAS SOME BUGS JUST FOR NOW TO TIME FOR LAST CHECK AND OPTIMIZING .
+    
 
 
 
