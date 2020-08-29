@@ -12,7 +12,7 @@ public class Email {
     private String alternateEmail;
     private int defaultPasswordLength = 10;
     private  String email;
-    private String  Suffix = "intecbrussel.be";
+    private String  Suffix = "javaaproach.be";
     
     // LAST CHECK NOT HAPPEND 
     
