@@ -15,6 +15,7 @@ public class Email {
     private String  Suffix = "javaaproach.be";
     
     // LAST CHECK NOT HAPPEND 
+    // EVERYTHING HAPPEND IN CONSTRUCTOR
     
 
 
